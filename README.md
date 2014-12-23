@@ -1,2 +1,3 @@
 ircbot
 ======
+something something copyright?
